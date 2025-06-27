@@ -21,7 +21,7 @@ const Contact = () => {
           
           <div className="max-w-xl mx-auto">
               <a
-                href="https://discord.gg/brezelservices"
+                href="https://discord.gg/precisascripts"
                 className="w-full bg-primary-600 text-white py-4 rounded-lg hover:bg-primary-700 transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1 text-center block"
               >
                 Discord Beitreten
